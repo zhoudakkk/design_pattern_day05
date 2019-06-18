@@ -16,5 +16,7 @@
 ### 自己的理解
 
  其实就是模块化的步枪 可以通过换枪管 发射不同的子弹
+
  代码中 SubwayStrategy 就是枪管 
+
  TranficCalculator 就是枪
